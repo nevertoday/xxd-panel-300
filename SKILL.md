@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-300
-description: "Create XXD Panel 300 raster artwork: a faithful photograph paired with one small 1-bit archival seal, dither, figure-from-absence and a large blank. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-300 or asks for this 二值残印 style."
+description: "XXD Panel 300｜Binary Seal: keeps the photo and cuts its subject out of the blank as one small 1-bit archival seal — only pure black and pure white, with no grey, shadow or gradient, the form built from error-diffusion dither, changing pixel density and strong negative space so the figure seems to emerge from absence, its outline incomplete, dissolving and decaying at the edges like an old scan, lost signal or weathering — kept small, restrained, centred or slightly offset in extreme whitespace with no decoration, and a tiny archive number or page-like label in a small, low-resolution editorial type. Not game pixel art or a film-grain filter. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-300 or asks for a 1-bit dithered symbol, binary archive logo or negative-space bitmap seal from a photo."
 ---
 
 # XXD Panel 300

@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 300｜Binary Seal: keeps the photo and cuts its subject out of the blank as one small 1-bit archival seal — only pure black and pure white, with no grey, shadow or gradient, the form built from error-diffusion dither, changing pixel density and strong negative space so the figure seems to emerge from absence, its outline incomplete, dissolving and decaying at the edges like an old scan, lost signal or weathering — kept small, restrained, centred or slightly offset in extreme whitespace with no decoration, and a tiny archive number or page-like label in a small, low-resolution editorial type. Not game pixel art or a film-grain filter. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-300 or asks for a 1-bit dithered symbol, binary archive logo or negative-space bitmap seal from a photo.",
+  "short_description": "二值残印：只用纯黑纯白和误差扩散抖动，把主体从空白里挖成一枚衰减的小印章",
+  "zh-CN": {
+    "name": "二值残印",
+    "tagline": "只用纯黑和纯白，把照片主体从空白里挖成一枚边缘衰减的小印章。",
+    "look": "原照片保留；设计部分只有纯黑和纯白两种值，没有灰阶、阴影和渐变，形体完全靠误差扩散抖动、黑白颗粒的聚散和强烈的负形撑起，像从空白里被挖出来。轮廓可以不完整，边缘逐渐消散、衰减，像旧扫描、信号丢失或被时间风化。主体小而克制，居中或略偏，周围是大片空白，不加任何装饰，旁边一个极小的档案编号或页码式标记，字体细小、带低分辨率感。",
+    "traits": ["纯黑纯白", "误差扩散", "负形挖空", "档案印章", "像素衰减"],
+    "good": [
+      "形体简洁、剪影明确的主体：一只鸟、一个瓶子、一座塔、一个人的侧影",
+      "明暗分得开的照片：白墙前的人、雪地里的树、天空下的建筑",
+      "想做成艺术书页图形、展览标识或实验出版物封面的照片"
+    ],
+    "poor": [
+      "依赖灰阶层次和细腻光影的照片：雾景、柔光人像、夜景",
+      "需要彩色或灰阶的用途，这里只有纯黑纯白",
+      "想要游戏像素画、黑白摄影效果、胶片颗粒或商业 Logo 模板的需求"
+    ]
+  },
+  "en": {
+    "name": "Binary Seal",
+    "tagline": "Uses only pure black and pure white to cut the subject of your photo out of the blank as a small, fading seal.",
+    "look": "Your photo stays; the design uses just two values, pure black and pure white, with no grey, shading or gradient, so the form is built entirely from error-diffusion dither, gathering and scattering specks and strong negative space, as if carved out of emptiness. The outline may be incomplete, its edges thinning and decaying like an old scan, a lost signal or weathering. The subject is small and restrained, centred or slightly off, in wide empty space with no decoration, beside a tiny archive number or page-style mark in a small type with a low-resolution feel.",
+    "traits": ["Pure black and white", "Error diffusion", "Negative-space cut", "Archive seal", "Pixel decay"],
+    "good": [
+      "Simple forms with a clear silhouette: a bird, a bottle, a tower, a person in profile",
+      "Photos where light and dark separate cleanly: a person against a white wall, a tree in snow, a building against the sky",
+      "Photos you want as an artist-book graphic, an exhibition mark or an experimental publication cover"
+    ],
+    "poor": [
+      "Photos that depend on grey tones and subtle light: misty scenes, soft-light portraits, night shots",
+      "Uses that need colour or greyscale, since only pure black and white are used",
+      "Requests for game pixel art, black-and-white photo effects, film grain or a stock commercial logo"
+    ]
+  },
+  "ja": {
+    "name": "二値の残印",
+    "tagline": "純粋な黒と白だけで、写真の主役を余白からくり抜き、縁が薄れていく小さな印にします。",
+    "look": "元の写真は残し、デザイン部分は純粋な黒と白の二値だけで、グレー、陰影、グラデーションはありません。形はすべて誤差拡散のディザ、黒白の粒の集まりと散らばり、強い抜きの形で成り立ち、空白からくり抜かれたように見えます。輪郭は欠けていてもよく、縁は古いスキャン、信号の欠落、時間による風化のように薄れ、崩れていきます。主役は小さく控えめで、中央か少しずらして置かれ、まわりは装飾のない広い余白で、低解像度の感触がある小さな書体で、ごく小さな記録番号やページ番号のような印が添えられます。",
+    "traits": ["純粋な黒と白", "誤差拡散", "抜きの形", "アーカイブの印", "ピクセルの減衰"],
+    "good": [
+      "形がシンプルでシルエットのはっきりした主役：鳥、瓶、塔、人の横顔",
+      "明暗がきれいに分かれる写真：白い壁の前の人、雪の中の木、空を背にした建物",
+      "アーティストブックの図版、展覧会のマーク、実験的な出版物の表紙にしたい写真"
+    ],
+    "poor": [
+      "グレーの階調と繊細な光が魅力の写真：霧の風景、ソフトな光の人物、夜景",
+      "カラーやグレースケールが必要な用途（使うのは純粋な黒と白だけです）",
+      "ゲームのドット絵、モノクロ写真風、フィルムグレイン、ありがちな商業ロゴを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "이진 잔인",
+    "tagline": "순수한 검정과 흰색만으로 사진 속 주인공을 빈 공간에서 파내어, 가장자리가 스러지는 작은 인장으로 만듭니다.",
+    "look": "원본 사진은 남기고, 디자인 부분은 순수한 검정과 흰색 두 값만 쓰며 회색, 음영, 그라데이션이 없습니다. 형태는 오차 확산 디더링, 흑백 입자의 모임과 흩어짐, 강한 네거티브 형태만으로 만들어져 빈 공간에서 파낸 것처럼 보입니다. 윤곽은 불완전해도 되고, 가장자리는 오래된 스캔, 신호 손실, 세월의 풍화처럼 옅어지고 무너집니다. 주인공은 작고 절제되어 가운데나 살짝 비켜 놓이고, 주변은 장식 없는 넓은 여백이며, 저해상도 느낌의 작은 서체로 아주 작은 기록 번호나 쪽 번호 같은 표시가 붙습니다.",
+    "traits": ["순수한 흑백", "오차 확산", "네거티브 파내기", "아카이브 인장", "픽셀 감쇠"],
+    "good": [
+      "형태가 간결하고 실루엣이 분명한 주인공: 새, 병, 탑, 사람의 옆모습",
+      "명암이 깨끗하게 갈리는 사진: 흰 벽 앞의 사람, 눈밭의 나무, 하늘을 배경으로 한 건물",
+      "아티스트 북 도판, 전시 마크, 실험적인 출판물 표지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "회색 계조와 섬세한 빛에 기대는 사진: 안개 풍경, 부드러운 빛의 인물, 야경",
+      "컬러나 그레이스케일이 필요한 용도(순수한 흑백만 씁니다)",
+      "게임 픽셀 아트, 흑백 사진 효과, 필름 그레인, 흔한 상업 로고를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "الختم الثنائي",
+    "tagline": "لا يستعمل إلا الأسود الخالص والأبيض الخالص ليقتطع العنصر الرئيسي من الفراغ ختماً صغيراً يتلاشى.",
+    "look": "تبقى صورتك، ولا يستعمل التصميم إلا قيمتين: الأسود الخالص والأبيض الخالص، بلا رمادي ولا تظليل ولا تدرج، فيُبنى الشكل كله من تنقيط انتشار الخطأ وتجمّع النقاط وتبعثرها ومساحة سالبة قوية، كأنه حُفر من العدم. قد يكون الخط الخارجي ناقصاً، وتخفّ حوافه وتتحلل كمسح ضوئي قديم أو إشارة مفقودة أو أثر تعرية. العنصر صغير ومنضبط، في الوسط أو منحرف قليلاً، وسط فراغ واسع بلا زخرفة، وبجانبه رقم أرشيفي صغير جداً أو علامة كرقم صفحة بخط صغير فيه إحساس الدقة المنخفضة.",
+    "traits": ["أسود وأبيض خالصان", "انتشار الخطأ", "حفر بالمساحة السالبة", "ختم أرشيفي", "تلاشي البكسل"],
+    "good": [
+      "أشكال بسيطة بظل واضح: طائر، زجاجة، برج، شخص من الجانب",
+      "صور ينفصل فيها الضوء عن الظل بوضوح: شخص أمام جدار أبيض، شجرة في الثلج، مبنى على خلفية السماء",
+      "صور تريدها رسماً لكتاب فني أو علامة لمعرض أو غلافاً لمطبوعة تجريبية"
+    ],
+    "poor": [
+      "صور تعتمد على درجات الرمادي والضوء الدقيق: مشاهد الضباب، صور شخصية بإضاءة ناعمة، اللقطات الليلية",
+      "استخدامات تحتاج ألواناً أو تدرجاً رمادياً، فلا يُستعمل إلا الأسود والأبيض الخالصان",
+      "طلب رسم بكسل للألعاب أو مؤثر تصوير بالأبيض والأسود أو حبيبات فيلم أو شعار تجاري جاهز"
+    ]
+  }
+}
